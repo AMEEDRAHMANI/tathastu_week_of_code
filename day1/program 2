@@ -1,0 +1,4 @@
+import math
+
+squareroot=float(input("the squareroot of :"))
+print("the answer is :",math.sqrt(squareroot))
